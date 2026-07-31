@@ -18,12 +18,6 @@
 
 ###
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Nithish2kumar.Nithish2kumar"  />
-</div>
-
-###
-
 <h1 data-importer="text" align="center">Hi 👋 I'm Nithish Kumar</h1>
 
 ###
