@@ -64,13 +64,3 @@
 </div>
 
 ###
-
-<h3 data-importer="text" align="left">🔥 My Stats</h3>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Nithish2kumar&locale=en&theme=dark&hide_border=false" height="220" alt="streak graph" />
-</div>
-
-###
