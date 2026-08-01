@@ -8,7 +8,7 @@
   <a href="https://github.com/Nithish2kumar">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="github logo" />
   </a>
-  <a href="https://www.linkedin.com/in/j-nithish-kumar">
+  <a href="www.linkedin.com/in/j-nithish-kumar-555076341">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="mailto:jnithishkumar2@gmail.com">
