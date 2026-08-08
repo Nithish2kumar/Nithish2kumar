@@ -1,7 +1,9 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400"/>
+
 <!-- Typing animation header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Nithish+Kumar;Cybersecurity+%26+Blockchain+Student;Building+Intrusion+Detection+Systems;Exploring+Industrial+Honeypots+%26+Network+Security;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Nithish+Kumar;Cybersecurity+%26+Blockchain+Student;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -32,7 +34,6 @@ role: Cybersecurity & Blockchain Technology Student
 location: India
 focus: Intrusion Detection Systems • Industrial Honeypots • Network Security
 learning: Industrial Control System (ICS/SCADA) Security • Malware Analysis • Advanced Networking
-fun_fact: I break networks so attackers can't 🔐
 ```
 
 - 🔭 Currently building **Intrusion Detection Systems, Industrial Honeypots, and Network Security tools**
@@ -61,23 +62,12 @@ fun_fact: I break networks so attackers can't 🔐
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Nithish2kumar/SCADA-Baseline-IDS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nithish2kumar&repo=SCADA-Baseline-IDS&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Nithish2kumar/Industrial-HoneyPot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nithish2kumar&repo=Industrial-HoneyPot&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Nithish2kumar/MiniIDS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nithish2kumar&repo=MiniIDS&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Nithish2kumar/Network-Forensics-Tool">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nithish2kumar&repo=Network-Forensics-Tool&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+| Project | Description |
+|---|---|
+| 🛡️ [**SCADA-Baseline-IDS**](https://github.com/Nithish2kumar/SCADA-Baseline-IDS) | A Python-based SCADA Intrusion Detection System for Modbus TCP traffic analysis, asset discovery, and anomaly detection |
+| 🍯 [**Industrial-HoneyPot**](https://github.com/Nithish2kumar/Industrial-HoneyPot) | A Python-based deception honeypot for Industrial Control Systems with Modbus traffic analysis and attack detection |
+| 🔍 [**MiniIDS**](https://github.com/Nithish2kumar/MiniIDS) | A lightweight Intrusion Detection System built using Python and Scapy |
+| 🌐 [**Network-Forensics-Tool**](https://github.com/Nithish2kumar/Network-Forensics-Tool) | Offline network traffic analysis tool for packet inspection and suspicious activity detection |
 
 <br/>
 
