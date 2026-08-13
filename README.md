@@ -8,7 +8,7 @@
 <br/>
 
 <!-- Social badges -->
-<a href="https://www.linkedin.com/in/j-nithish-kumar">
+<a href="https://www.linkedin.com/in/j-nithish-kumar-555076341/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:jnithishkumar2@gmail.com">
@@ -92,7 +92,7 @@ learning: Industrial Control System (ICS/SCADA) Security • Malware Analysis �
 
 Always open to talking security, blockchain, or open-source collaboration — feel free to reach out.
 
-<a href="https://www.linkedin.com/in/j-nithish-kumar"><img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat-square&logo=linkedin" /></a>
+<a href="https://www.linkedin.com/in/j-nithish-kumar-555076341/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat-square&logo=linkedin" /></a>
 <a href="mailto:jnithishkumar2@gmail.com"><img src="https://img.shields.io/badge/Say%20Hi-Gmail-D14836?style=flat-square&logo=gmail" /></a>
 
 </div>
