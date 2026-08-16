@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 
 <!-- Typing animation header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Nithish+Kumar;Cybersecurity+%26+Blockchain+Student;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
