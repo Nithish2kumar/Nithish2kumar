@@ -80,10 +80,6 @@ learning: Industrial Control System (ICS/SCADA) Security â€¢ Malware Analysis â€
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithish2kumar&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
-
 <br/>
 
 <div align="center">
